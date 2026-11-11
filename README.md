@@ -1,7 +1,7 @@
 # Caesar Cipher CLI
 
-**Index Number:** YOUR_INDEX_NUMBER_HERE
-**Name:** YOUR_NAME_HERE
+**Index Number:** 10353232
+**Name:** Dennis Boateng
 
 A command-line program that encrypts and decrypts text in the terminal.
 
